@@ -1,0 +1,5 @@
+text=input("Your text: ")
+word=input("Which word needs replacement: ")
+new_word=input("With which word: ")
+text=text.replace(word,new_word)
+print(text)
