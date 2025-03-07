@@ -1,0 +1,5 @@
+l=input("Enter elements of a tuple with space in between: ").strip().split(" ")
+nl=l.copy()
+nl.reverse()
+t=tuple(nl)
+print(t)

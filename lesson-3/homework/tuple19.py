@@ -1,0 +1,6 @@
+t=tuple(input("Enter elements with space in between: ").strip().split())
+elm=input("element: ")
+l=list(t)
+l.remove(elm)
+t=tuple(l)
+print(t)
