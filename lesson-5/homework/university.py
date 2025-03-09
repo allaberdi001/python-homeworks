@@ -23,7 +23,7 @@ def median(l):
     if len(l)%2==1:
         return l[(len(l)+1)//2-1]
     else:
-        return (l[len(l)-1]+l[len(l)])/2
+        return (l[len(l)//2-1]+l[len(l)//2])/2
 enrollment_values,tuition_fees=enrollment_stats(universities)
 print("******************************")
 print(f"Total students: {sum(enrollment_values):,}")
