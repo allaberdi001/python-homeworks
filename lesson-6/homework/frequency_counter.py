@@ -7,6 +7,7 @@ for elm in l:
         freq[elm]=1
     else:
         freq[elm]=freq[elm]+1
+print(freq)
 freq=dict(sorted(freq.items(), key=lambda item:item[1], reverse=True))
 print("Total words: ",len(l))
 print("Top 5 most common words:")

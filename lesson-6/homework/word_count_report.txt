@@ -1,11 +1,8 @@
 Word Count Report
 Total Words: 92
-Top 8 Words:
+Top 5 Words:
 the - 7 times
 a - 6 times
 in - 3 times
 of - 3 times
 time - 2 times
-warm - 1 times
-afternoon - 1 times
-sun - 1 times
