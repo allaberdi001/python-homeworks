@@ -1,0 +1,4 @@
+1, Farrux, 3000
+2, Allaberdi, 0
+4, Jasur, 4000
+5, Anvar, 1500
